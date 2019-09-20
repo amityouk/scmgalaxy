@@ -42,17 +42,17 @@
     <repository>
         <id>sym</id>
         <name>release softx</name>
-        <url>http://52.66.196.78:8081/repository/all/</url>
+        <url>http://192.168.33.11:8081/repository/sample_release/</url>
     </repository>
     <snapshotRepository>
         <id>sym</id>
         <name>snapshot softx</name>
-        <url>http://52.66.196.78:8081/repository/all/</url>
+        <url>http://192.168.33.11:8081/repository/sample_snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 
 
-
+http://192.168.33.11:8081/repository/sample_snapshot/
 
 
 
